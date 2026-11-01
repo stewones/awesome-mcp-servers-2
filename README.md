@@ -348,6 +348,7 @@ An MCP server runs as a trusted extension of your assistant, with your files and
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- |
 | [Adobe Premiere Pro MCP](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP) | Drive Adobe Premiere Pro timelines and edits from an agent            | TypeScript |
 | [AntV Chart MCP](https://github.com/antvis/mcp-server-chart)                    | Official AntV server generating 25+ chart types                       | TypeScript |
+| [AppScreen](https://appscreen.pro/mcp)                                          | Build App Store and Google Play screenshot sets from an agent         | Remote     |
 | [Aseprite MCP](https://github.com/diivi/aseprite-mcp)                           | Create and edit pixel art through the Aseprite API                    | Python     |
 | [Blender MCP](https://github.com/ahujasid/mcp-for-blender)                      | Control Blender 3D modeling from AI assistants                        | Python     |
 | [ComfyUI MCP](https://github.com/artokun/comfyui-mcp)                           | Run and author ComfyUI workflows for image, video, and audio          | TypeScript |
